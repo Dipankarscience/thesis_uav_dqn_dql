@@ -40,10 +40,10 @@ Decide when and where UAVs should recharge their batteries at the charging stati
 
 Minimize the total cost, which includes the sum of distances traveled between locations, the time spent servicing each location, and the time spent recharging at charging stations.
 
-### Demostration of UAV routing using DQN algorithm
+### Demostration of UAV routing using DQN algorithm (Total Reward: 55)
 ![UAV routing using DQN algorithm with timestamp](trajectory/DQN/uav_trajectory__DQN.gif)
 ![UAV routing using DQN algorithm without timestamp](trajectory/DQN/uav_trajectory_lines__DQN.gif)
 
-### Demostration of UAV routing using Double Q Learning algorithm
+### Demostration of UAV routing using Double Q Learning algorithm (Total Reward: -290)
 ![UAV routing using Double Q Learning algorithm with timestamp](trajectory/DQL/uav_trajectory__Double_Q_Learning.gif)
 ![UAV routing using Double Q Learning algorithm without timestamp](trajectory/DQL/uav_trajectory_lines__Double_Q_Learning_1.gif)
